@@ -11,7 +11,7 @@
 	<groupId>com.adv</groupId>
 	<artifactId>Advanced</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>Advanced</name>
 	<description>Learn Modules ofSpring Boot</description>
 	<properties>
